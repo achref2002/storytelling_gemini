@@ -1,0 +1,7 @@
+pip install flask
+
+https://167d-197-2-68-176.ngrok-free.app/generate-story
+
+{
+    "prompt": "قصة عن قطة وكلب"
+}
